@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/a123yaoyao/vhr/  
 
->原本计划把项目跑起来放到网上供小伙伴们查看，但是之前买服务器为了省钱，内存只有512M，两个应用跑不起来(已经有一个[V部落开源项目](https://github.com/lenve/VBlog)在运行)，因此小伙伴们只能将就看一下下面的截图了，文末有部署教程，部署到本地也可以查看完整效果。    
+
 
 
 # tips 
@@ -14,23 +14,7 @@
 
 该项目还有一些功能尚未完成，非常欢迎小伙伴们提交pr，我会将大家所做的工作展示在README中！
 
-# 整体效果
 
-首先，不同的用户在登录成功之后，根据不同的角色，会看到不同的系统菜单，完整菜单如下：  
-
-![p278](https://raw.githubusercontent.com/wiki/lenve/vhr/doc/p278.png)  
-
-不同用户登录上来之后，可能看到的会有差异，如下：  
-
-![p279](https://raw.githubusercontent.com/wiki/lenve/vhr/doc/p279.png)  
-
-每个用户的角色是由系统管理员进行分配的，系统管理员给用户分配角色的页面如下：  
-
-![p280](https://raw.githubusercontent.com/wiki/lenve/vhr/doc/p280.png)  
-
-系统管理员也可以管理不同角色可以操作的资源，页面如下：  
-
-![p281](https://raw.githubusercontent.com/wiki/lenve/vhr/doc/p281.png)  
 
 
 # 技术栈
@@ -53,7 +37,7 @@
 
 # 快速部署
 
-1.clone项目到本地```git@github.com:lenve/vhr.git```  
+1.clone项目到本地```https://github.com/a123yaoyao/vhr.git```  
 
 2.数据库脚本放在hrserver项目的resources目录下，在MySQL中执行数据库脚本  
 

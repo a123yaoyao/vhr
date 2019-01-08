@@ -230,15 +230,10 @@ npm run build
 
 33.[系统通知功能实现](https://github.com/lenve/vhr/wiki/33.%E7%B3%BB%E7%BB%9F%E9%80%9A%E7%9F%A5%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0)  
 
-# 其他资料
-
-关注公众号查看更多全栈资料：  
-
-![公众号二维码](https://mmbiz.qpic.cn/mmbiz_jpg/GvtDGKK4uYkO6VEW6XfkovAic6oA5LegzZKeRj0OwOZZQ8ic1tEoBOVBBOreAB9Dz32CN9MU19slrjn5qvxbR7pQ/0?wx_fmt=jpeg)  
 
 # License
 
-    Copyright 2018 王松
+    Copyright 2019 陈鹏
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

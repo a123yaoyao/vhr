@@ -1,7 +1,7 @@
 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。  
 
 
-项目地址：[https://github.com/lenve/vhr](https://github.com/lenve/vhr)   
+项目地址：https://github.com/a123yaoyao/vhr/  
 
 >原本计划把项目跑起来放到网上供小伙伴们查看，但是之前买服务器为了省钱，内存只有512M，两个应用跑不起来(已经有一个[V部落开源项目](https://github.com/lenve/VBlog)在运行)，因此小伙伴们只能将就看一下下面的截图了，文末有部署教程，部署到本地也可以查看完整效果。    
 
@@ -230,15 +230,10 @@ npm run build
 
 33.[系统通知功能实现](https://github.com/lenve/vhr/wiki/33.%E7%B3%BB%E7%BB%9F%E9%80%9A%E7%9F%A5%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0)  
 
-# 其他资料
-
-关注公众号查看更多全栈资料：  
-
-![公众号二维码](https://mmbiz.qpic.cn/mmbiz_jpg/GvtDGKK4uYkO6VEW6XfkovAic6oA5LegzZKeRj0OwOZZQ8ic1tEoBOVBBOreAB9Dz32CN9MU19slrjn5qvxbR7pQ/0?wx_fmt=jpeg)  
 
 # License
 
-    Copyright 2018 王松
+    Copyright 2019 陈鹏
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
